@@ -1,1 +1,1 @@
-# meathub.ua
+# meathub
